@@ -1651,7 +1651,7 @@
         "msn_level": "5",
         "msn_description": "Shin has special training course for premium users!",
         "msn_premium": true,
-        "msn_daily": true,
+        "msn_daily": false,
         "msn_campaign": false,
         "msn_rewards": [
           "tokens_1"
